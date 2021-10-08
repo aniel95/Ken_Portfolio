@@ -6,3 +6,9 @@ Example data science portfolio
 Description project 1
 
 link to Ken Jee's video: [How to Make A Data Science Portfolio Website with Github Pages](https://www.youtube.com/watch?v=1aXk2RViq3c&list=PLc6Uc1T9oZ3HVwJbLsq0XsvntATk6PCqk&index=7)
+
+# Project 2 - Title 2
+
+Description project 2
+
+
