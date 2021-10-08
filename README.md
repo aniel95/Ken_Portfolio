@@ -11,6 +11,6 @@ link to Ken Jee's video: [How to Make A Data Science Portfolio Website with Gith
 
 Description project 2
 
-[](https://github.com/aniel95/Ken_Portfolio/blob/main/Images/Aniel%20Villegas%20-%20Intro%20to%20Machine%20Learning.png)
+![](https://github.com/aniel95/Ken_Portfolio/blob/main/Images/Aniel%20Villegas%20-%20Intro%20to%20Machine%20Learning.png)
 
 
